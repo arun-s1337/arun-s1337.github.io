@@ -1,0 +1,8 @@
+.feedback{
+    background-color: aqua;
+    text-align: center;
+    color: rgb(42, 61, 165);
+    padding: 200px;
+    margin: 35px;;
+    cursor: pointer;
+}
