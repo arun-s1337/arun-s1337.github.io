@@ -13,6 +13,10 @@ body::-webkit-scrollbar {
   display: none;
 }
 
+.background-1 {
+  background-color:cadetblue;
+}
+
 /* blog potion */
 #blog {
 color: black;
@@ -462,9 +466,9 @@ color:aqua;
 }
 button{
   background-color: none;
-  color: black;
+  color:#f95959;
   border-width: none;
-  border-color: #FF033E;
+  border-color: #2903ff;
   
 }
 /* text-typing css end */
